@@ -1,6 +1,6 @@
 ---
-layout: about
-title: about
+layout: About
+title: About
 permalink: /
 subtitle: <a href="#">School of Physics, Peking University</a>.
 
