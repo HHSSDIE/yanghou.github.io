@@ -19,8 +19,7 @@ I am a fourth-year undergraduate student in [Prof. Hongzheng Zhao's group](https
 Currently, I am working on non-equilibrium many-body dynnamics, with a particular focus on classical systems. My research interests also include quantum computation, quantum information, open quantum systems, and other fascinating topics in statistical mechanics, classical mechanics, and quantum mechanics.
 
 ---
-layout: page
+layout: about
 
 social: true
 ---
-You can reach me through the following platforms:
