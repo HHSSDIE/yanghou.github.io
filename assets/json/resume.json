@@ -24,6 +24,18 @@
       "score": "10",
     }
   ],
+  "Research Experience": [
+    {
+      "institution": "School of Physics, Peking University",
+      "location": "Beijing, China",
+      "url": "https://pku.edu.cn/",
+      "area": "Condense Matter Theory",
+      "studyType": "BSc",
+      "startDate": "2022-09",
+      "endDate": "present",
+      "score": "10",
+    }
+  ],
   "Reasearch Interests": [
     {
       "name": "Physics",
@@ -54,16 +66,6 @@
       "releaseDate": "2025-07-25",
       "url": "https://journals.aps.org/prb/abstract/10.1103/9znd-dsm2",
       "summary": "Engineer symmetries, relize and manipulate emergent Nambu-Goldstone modes in non-equilibrium systems."
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
     }
   ]
 }
