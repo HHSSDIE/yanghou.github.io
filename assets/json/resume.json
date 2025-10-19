@@ -9,7 +9,6 @@
     {
       "institution": "School of Physics, Peking University",
       "location": "Beijing, China",
-      "url": "https://pku.edu.cn/",
       "area": "",
       "studyType": "BSc in Physics",
       "startDate": "2022-09",
@@ -52,7 +51,7 @@
   ],
   "Publications": [
     {
-      "name": "Floquet-engineered emergent massive Nambu-Goldstone modes",
+      "name": "Floquet-engineered Emergent Massive Nambu-Goldstone Modes",
       "publisher": "Physical Review B ",
       "releaseDate": "2025-07-25",
       "url": "https://journals.aps.org/prb/abstract/10.1103/9znd-dsm2",
@@ -61,11 +60,22 @@
   ],
   "Selected Awards": [
     {
-      "title": "prize",
-      "date": "1921-11-01",
-      "awarder": "s ",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": " s"
+      "title": "Zhong Shengbiao Graduate Academic Forum",
+      "date": "2025-4",
+      "awarder": "School of Physics, Peking University",
+      "summary": "Sole undergraduate among 133; Second Prize for academic presentation (Top 16)."
+    },
+    {
+      "title": "Xingcheng Undergraduate Academic Forum",
+      "date": "2025-5",
+      "awarder": "School of Physics, Peking University",
+      "summary": "1st place in academic presentation; awarded First Prize & Best Presentation."
+    },
+    {
+      "title": "Beijing Natural Science Foundation Undergraduate “Qiyan” Program",
+      "date": "2024-10",
+      "awarder": "Beijing Natural Science Foundation",
+      "summary": "awarded to 100 students selected from all undergraduate students at Peking University to support their original research."
     }
   ]
 }
