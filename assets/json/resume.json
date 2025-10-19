@@ -1,39 +1,41 @@
 {
-  "basics": {
+  "Basics": {
     "name": "Yang Hou",
     "image": "",
     "email": "yanghou@stu.pku.edu.cn",
-    "summary": "An undergraduate student in Peking University who works on nonequilibrium many-body physics.",
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "summary": "An undergraduate student in Peking University who works on nonequilibrium many-body physics."
   },
-  "education": [
+  "Education": [
     {
       "institution": "School of Physics, Peking University",
       "location": "Beijing, China",
       "url": "https://pku.edu.cn/",
-      "area": "Condense Matter Theory",
-      "studyType": "BSc",
+      "area": "",
+      "studyType": "BSc in Physics",
       "startDate": "2022-09",
-      "endDate": "present",
-      "score": "10"
+      "endDate": ""
     }
   ],
   "Research Experience": [
     {
-      "institution": "School of Physics, Peking University",
+      "name": "Institute of Condensed Matter and Material Physics, School of Physics, Peking University",
+      "position": "Research Assitant in Condensed Matter Theory",
       "location": "Beijing, China",
-      "url": "https://pku.edu.cn/",
-      "area": "Condense Matter Theory",
-      "studyType": "BSc",
-      "startDate": "2022-09",
-      "endDate": "present",
-      "score": "10"
+      "startDate": "2023-11",
+      "endDate": "",
+      "supervisor": "Prof. Hongzheng Zhao",
+      "summary": "Investigating non-equilibrium many-body dynamcis in classical systems.",
+      "highlights": ["Floquet-engineered emergent massive Nambu-Goldstone modes","Floquet Superheating"]
+    } ,
+    {
+      "name": "Max Planck Institute for the Physics of Complex Systems",
+      "position": "Intern in Condensed Matter Division",
+      "supervisor": "Dr. Marin Bukov",
+      "location": "Dresden, Germany",
+      "startDate": "2025-7",
+      "endDate": "2025-9",
+      "summary": "Exploring geometric effect in Classical FLoquet systems.",
+      "highlights": ["Classical Geometric Floquet Thoery"]
     }
   ],
   "Research Interests": [
@@ -41,31 +43,29 @@
       "name": "Physics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
+        "Non-equilibrium Dymanics",
+        "Many-body Physics",
         "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Quantum Computation"
       ]
     }
   ],
-  "Selected Awards": [
-    {
-      "title": " prize",
-      "date": "1921-11-01",
-      "awarder": "s ",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": " s"
-    }
-  ],
-  "publications": [
+  "Publications": [
     {
       "name": "Floquet-engineered emergent massive Nambu-Goldstone modes",
       "publisher": "Physical Review B ",
       "releaseDate": "2025-07-25",
       "url": "https://journals.aps.org/prb/abstract/10.1103/9znd-dsm2",
       "summary": "Engineer symmetries, relize and manipulate emergent Nambu-Goldstone modes in non-equilibrium systems."
+    }
+  ],
+  "Selected Awards": [
+    {
+      "title": "prize",
+      "date": "1921-11-01",
+      "awarder": "s ",
+      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
+      "summary": " s"
     }
   ]
 }

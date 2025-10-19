@@ -399,7 +399,13 @@ ul.task-list input[type="checkbox"] {
 
 .social {
   text-align: center;
-
+  /* Add this to stick it to the bottom */
+  position: fixed;
+  bottom: 20pt;
+  left: 0;
+  width: 100%;
+  // z-index: 1000;
+  padding: 10px 0;             /* add some vertical spacing */
   .contact-icons {
     font-size: 4rem;
 
